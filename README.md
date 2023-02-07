@@ -15,3 +15,6 @@ Com o Preset - Apache Superset, você estará habilitado a transformar dados em 
 ## "Descubra novos insights com o Apache Superset: transforme dados em ação"
 
 Venha e comece hoje mesmo a estudar esta ferramenta que ajuda analista de dados em todo o mundo a encontrar seus insights. Entender sobre visualização de dados permitirá que você monte painéis e estruturas de decisão em sua organização.
+
+# Ebook sobre Preset - APACHE Superset
+https://is.gd/EBOOKAPACHESUPERSET
